@@ -1,22 +1,24 @@
 .container{
-	width:600x;
+	width:500px;
 	background-color:white;
-	border:15px solid black border;
-	
+	border:solid black border;
+	padding:50px;
+	margin:20px;
 }
 
 .sub-container{
-	width:300px;
+	width:400px;
 	background-color:blue;
 	padding:50px;
+	border: solid black;
 }
 
 
 .sub{
-	width:150px;
+	width:300px;
 	background-color:lightblue;
 	border:15px solid blue border;
 	padding:50px;
-	margin:20px;
+	
 	
 }
