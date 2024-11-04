@@ -1,5 +1,19 @@
-div{
+.container{
+	width:600x;
+	background-color:white;
+	border:15px solid black border;
+	
+}
+
+.sub-container{
 	width:300px;
+	background-color:blue;
+	padding:50px;
+}
+
+
+.sub{
+	width:150px;
 	background-color:lightblue;
 	border:15px solid blue border;
 	padding:50px;
